@@ -9,7 +9,7 @@ The original application lives at https://github.com/SpringSource/spring-petclin
 ## Running petclinic locally
 
 First, you will have to download it. If you have a local installation of git, you can
-do it by simply cloning this repository:
+do it by simply cloning this repository:jbskvjbsa,jv
 
 ```
 	git clone https://github.com/thymeleaf/thymeleafexamples-petclinic.git
